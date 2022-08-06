@@ -1,0 +1,25 @@
+{
+    "name": "Unity.PlasticSCM.Editor",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "antlr.runtimePlastic.dll",
+        "Antlr3.RuntimePlastic.dll",
+        "ICSharpCode.SharpZipLibPlastic.dll",
+        "LibGit2SharpPlastic.dll",
+        "log4netPlastic.dll",
+        "Newtonsoft.Json.Net20Plastic.dll",
+        "nunit.framework.dll",
+        "unityplastic.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

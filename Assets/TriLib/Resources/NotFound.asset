@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NotFound
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  serializedVersion: 2
+  m_Width: 8
+  m_Height: 8
+  m_CompleteImageSize: 340
+  m_TextureFormat: 5
+  m_MipCount: 4
+  m_IsReadable: 1
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 0
+    m_WrapV: 0
+    m_WrapW: 0
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  image data: 340
+  _typelessdata: ffffffffffffffffffffffffff373fc7ff373fc7ffffffffffffffffffffffffffffffffffffffffffffffffff373fc7ff373fc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff373fc7ff373fc7ffffffffffffffffffffffffffffffffffffffffffffffffffffffffff373fc7ff373fc7ffffffffffffffffffffffffff373fc7ff373fc7ffffffffffffffffff373fc7ff373fc7ffffffffffffffffff373fc7ff373fc7ffffffffffffffffff373fc7ff373fc7ffffffffffffffffffffffffff373fc7ff373fc7ff373fc7ff373fc7ffffffffffffffffffffffffff9b9fe3ff9b9fe3ffffffffffffffffffcdcff1ffcdcff1ffffffffffcdcff1ffcdcff1ff696fd5ffcdcff1ffcdcff1ff696fd5ff696fd5ffcdcff1ffd9dbf4ffd9dbf4ffb4b7eaff9b9fe3ffc0c3ed
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 

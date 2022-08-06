@@ -1,0 +1,4 @@
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+File system watcher
+License: "MIT"

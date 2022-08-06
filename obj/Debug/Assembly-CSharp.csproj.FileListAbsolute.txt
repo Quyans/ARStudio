@@ -1,0 +1,2 @@
+D:\qys\BHU\science\AR\studio\Studio_v4\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\qys\BHU\science\AR\studio\Studio_v4\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

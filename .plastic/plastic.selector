@@ -1,0 +1,4 @@
+repository "Studio_v4@ssl://ethan_qys@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/648224071" 
+     
